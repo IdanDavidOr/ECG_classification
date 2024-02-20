@@ -56,7 +56,6 @@ if 'X_train_2017.npy' not in os.listdir(ORD_DATA_DIR) and 'y_train_2017.npy' not
     np.save(os.path.join(ORD_DATA_DIR, 'y_train_2017.npy'), y_train_17)
 
 #########################################################################################
-# TODO: Load validation set
 ## Load Validation
 
 validation_dir = os.path.join(c17_dir, 'validation')
