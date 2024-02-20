@@ -5,10 +5,6 @@ import pandas as pd
 
 from scipy.signal import resample
 
-import matplotlib
-
-matplotlib.use('TkAgg')
-import matplotlib.pyplot as plt
 
 ORD_DATA_DIR = r'C:\Users\Idanl\Desktop\AccuLine noisy ECG classification assignment\DATA\Ordered'
 PROC_DATA_DIR = r'C:\Users\Idanl\Desktop\AccuLine noisy ECG classification assignment\DATA\Processed'
