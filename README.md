@@ -10,4 +10,7 @@ and [CINC 2017](https://physionet.org/content/challenge-2017/1.0.0/) datasets.
 
 Some processing decisions:
 
-> The data was cut to 10 second samples and downsampled to 100Hz In order to overcome differences between the 2 datasets
+> The data is cut to 10 second samples in order to start organizing it. 
+> some was lost, so I will come back to that at a later point.
+> 
+> Then it is downsampled to 100Hz In order to have similar length signals
