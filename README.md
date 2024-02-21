@@ -14,3 +14,10 @@ Some processing decisions:
 > some was lost, so I will come back to that at a later point.
 > 
 > Then it is downsampled to 100Hz In order to have similar length signals
+
+# analysis and using the model
+
+the 2 colab notebooks are where the work happens
+
+In retrospect, I would design this a little different in later iterations
+
