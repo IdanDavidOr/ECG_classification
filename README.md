@@ -1,5 +1,5 @@
-# AccuLine Home assignment
-### Submitted by: Idan Lavi 
+# Noisy ECG classification
+### Submitted by: Idan David Or Lavi 
 
 
 
